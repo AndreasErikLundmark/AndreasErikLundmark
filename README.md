@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
+-----------------------------------------------------------------------------------------------
 
+![storforsen3](https://github.com/user-attachments/assets/48b83e78-ac4b-4d1c-af4e-84c7fbfdf7eb)
 
-![storforsen2](https://github.com/user-attachments/assets/c962ce4c-e94a-4ec8-b9eb-5d2b81ba4110)
 
 
 <!--
