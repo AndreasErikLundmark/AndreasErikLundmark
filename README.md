@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![AndreasErikLundmark](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![andreas.erik.lundmark@gmail.com](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 
 <!--
