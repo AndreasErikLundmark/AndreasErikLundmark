@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![storforsen](https://github.com/user-attachments/assets/a9d8cdcc-8930-4703-8ebe-5a019bf5f2ce)
+
 
 
 
