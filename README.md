@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasErikLundmark&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreasErikLundmark&show_icons=true&theme=radical)
+
 
 
 <!--
