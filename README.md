@@ -1,6 +1,5 @@
 # Hello 👋
 
-☕ Java |🌐 JavaScript | ⚙️ C++ | 🌍 HTML/CSS | 🗃️ SQL| 🖳 PHP................:)
 ---------------------------------------------------------------------------------------------
 
 ![storforsen3](https://github.com/user-attachments/assets/48b83e78-ac4b-4d1c-af4e-84c7fbfdf7eb)
