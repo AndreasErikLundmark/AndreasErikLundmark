@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="display: flex; justify-content: space-evenly; width: 100%; flex-wrap: wrap;">
+  <span style="display: flex; justify-content: space-evenly; width: 100%; flex-wrap: wrap; gap: 15px;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/48b83e78-ac4b-4d1c-af4e-84c7fbfdf7eb" />
 </p>
-
 <!--
 **AndreasErikLundmark/AndreasErikLundmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
