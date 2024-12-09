@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48b83e78-ac4b-4d1c-af4e-84c7fbfdf7eb" width="full" height="20px"/>
+<img src="https://github.com/user-attachments/assets/48b83e78-ac4b-4d1c-af4e-84c7fbfdf7eb" width="100%" height="20px" />
 </p>
 <!--
 **AndreasErikLundmark/AndreasErikLundmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
