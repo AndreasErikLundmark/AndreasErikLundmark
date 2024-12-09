@@ -1,4 +1,6 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasErikLundmark&layout=compact)
+### Languages and Tools:
+- **Languages**: Java, C++, Typescript
+- **Tools**: Git, Docker, VSCode, Jupyter Notebook
 
 
 ---------------------------------------------------------------------------------------------
